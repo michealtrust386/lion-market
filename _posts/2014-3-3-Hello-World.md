@@ -3,7 +3,7 @@ layout: post
 title: Lion Market!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Lion Marketplace is an emerging dark web market that has been operational for approximately two years. It has gained attention for its reliability, diverse product offerings, and strong vendor reputation.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

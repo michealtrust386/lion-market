@@ -29,5 +29,5 @@ reliability, diverse product offerings, and strong vendor reputation.
 As with all dark web markets, Lion Marketplace operates illegally, posing risks of **law enforcement action, or cyber threats** . Buyers and vendors assume significant legal and security risks.
 
 *(Note: This summary is for informational purposes only.)*
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 

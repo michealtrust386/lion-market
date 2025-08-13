@@ -9,7 +9,7 @@ name: Micheal Trust
 description: Dark web blogger
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/hacker.jpeg
+avatar: images/hacker.jpeg
 
 #
 # Flags below are optional
